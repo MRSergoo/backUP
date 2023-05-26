@@ -1,0 +1,4 @@
+
+SOME_STRING_FILENAME = C:\\Users\\si.romanov\\Desktop\\BackUP\\DIFF;C:\\Users\\si.romanov\\Desktop\\BackUP\\TR-LOG
+SOME_STRING_FULL = C:\\Users\\si.romanov\\Desktop\\BackUP\\DIFF
+SOME_FULL_FOLDERS = remont_it;SUOS;DIRECTUM;BSS
